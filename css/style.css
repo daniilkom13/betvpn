@@ -712,9 +712,6 @@ a {
         width: 100%;
         overflow-x: hidden;
     }
-    body {
-        background-color: rgb(165, 80, 80);
-    }
     .payment-item {
         width: 220px;
         height: 535px;
